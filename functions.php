@@ -4,6 +4,8 @@ Author: Jim Karlinski
 URL: htp://customrayguns.com
 */
 
+die('functions.php');
+
 function my_login_stylesheet() {
 	$x = get_template_directory_uri();
 	$x = $x . "/library/css/login.css";
