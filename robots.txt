@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /login
+
+Sitemap: http://asiascatcreations.com/sitemap.xml

@@ -1,0 +1,2 @@
+/******************************************************************
+To update the server, just commit changes and the post hook will deploy.
