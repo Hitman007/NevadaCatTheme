@@ -2,8 +2,8 @@
 <?php if ( is_active_sidebar( 'sidebar1' ) ) : ?>
 <div id = "order_now_button">
 <div id = "slide_1">
-	<a href = "http://asiascatcreations.com/add-cat/" >
-		<img id = "slide_1_img" src = "https://asiascatcreations.com/wp-content/themes/asias_cat_creations/library/images/order_now_1.jpg" width = "100%" />
+	<a href = "http://nevadacathouse.biz/add-cat/" >
+		<img id = "slide_1_img" src = "https://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/images/order_now_1.jpg" width = "100%" />
 	</a>
 </div>
 </div>
@@ -11,8 +11,8 @@
 jQuery('document').ready(function(){
 });
 function crg_slider(){
-	setTimeout(function(){jQuery("#slide_1_img").attr('src','https://asiascatcreations.com/wp-content/themes/asias_cat_creations/library/images/order_now_2.jpg');},1500);
-	setTimeout(function(){jQuery("#slide_1_img").attr('src','https://asiascatcreations.com/wp-content/themes/asias_cat_creations/library/images/order_now_1.jpg');},3000);
+	setTimeout(function(){jQuery("#slide_1_img").attr('src','https://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/images/order_now_2.jpg');},1500);
+	setTimeout(function(){jQuery("#slide_1_img").attr('src','https://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/images/order_now_1.jpg');},3000);
 }
 	
 function crg_back_slider(){
