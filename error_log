@@ -1,3 +1,0 @@
-[20-Dec-2012 04:58:12] PHP Fatal error:  Call to undefined function  get_header() in /home4/asiascat/public_html/wp-content/themes/asias_cat_creations/page-bill-to.php on line 5
-[18-Apr-2014 07:27:18 America/Denver] PHP Fatal error:  Call to undefined function crg_auth_redirect() in /home4/asiascat/public_html/wp-content/themes/asias_cat_creations/page-add-cat.php on line 9
-[22-May-2016 12:01:57 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/freepok1/public_html/nevadacathouse/wp-content/themes/asias_cat_creations/404.php on line 1
