@@ -41,7 +41,7 @@ include_once ((dirname(__FILE__)) . '/library/yourcats.function.php');
 your_cats();
 echo "<div style = 'width:100%;clear:both;'>
 		</div><div id = 'add_a_cat_button'>
-		<form action = '/index.php/add-cat/' method = 'post'>
+		<form action = '/add-cat/' method = 'post'>
 		<input type = 'submit' class = 'cat_button' value = 'Add a Cat' />
 		<input type = 'hidden' name = 'new-cat-old-cat-flag' id = 'new-cat-old-cat-flag' value = 'NEWCAT' />
 		</form></div><hr />";
