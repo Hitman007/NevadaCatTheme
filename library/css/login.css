@@ -4,5 +4,5 @@ html{background-color:#fadbff !important;}
 #login {padding: 0 !important;}
 
 body.login div#login h1 a {
-    background-image: url('/wp-content/themes/NevadaCatTheme/library/images/letterhead_banner.jpg');
+    background-image: url('http://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/images/letterhead_banner.jpg');
 }
