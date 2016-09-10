@@ -43,6 +43,7 @@ echo "<div style = 'width:100%;clear:both;'>
 		</div><div id = 'add_a_cat_button'>
 		<form action = '/add-cat/' method = 'post'>
 		<input type = 'submit' class = 'cat_button' value = 'Add a Cat' />
+		&nbsp;&nbsp;&nbsp<input type = 'submit' class = 'cat_button' name = 'save-proceeed' id = 'save-proceeed' value = 'Proceed to Payment' />
 		<input type = 'hidden' name = 'new-cat-old-cat-flag' id = 'new-cat-old-cat-flag' value = 'NEWCAT' />
 		</form></div><hr />";
 echo "<br />";
