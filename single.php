@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <div id="content">
-<h1>page single.php </h1> -->
+<!-- <h1>page single.php </h1> -->
 <div id="inner-content" class="wrap clearfix">
 <div id="main" class="ninecol first" role="main">
 <div class = "form_section">
