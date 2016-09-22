@@ -38,10 +38,4 @@ Template Name: Front page
 <?php get_sidebar(); ?>
 </div> <!-- end #inner-content -->
 </div> <!-- end #content -->
-	
-<script>
-jQuery( document ).ready(function() {
-	alert( "UNDER CONSTRUCTION Hi! We're fixin' the website. Come back in a few days!" );
-});
-</script>	
 <?php get_footer(); ?>
