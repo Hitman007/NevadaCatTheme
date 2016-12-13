@@ -62,7 +62,7 @@ The comments page for Bones
 	<a href="http://asiascatcreations.com/wp-login.php?loginFacebook=1&redirect=https://asiascatcreations.com/products/" onclick="window.location = 'http://asiascatcreations.com/wp-login.php?loginFacebook=1&redirect='+window.location.href; return false;">
 	<div class="new-fb-btn new-fb-1 new-fb-default-anim"><div class="new-fb-1-1"><div class="new-fb-1-1-1">CONNECT WITH</div></div></div></a>
 <?php }else{
-	echo ("<h4>You're logged in as <a href = 'http://asiascatcreations.com/profile'>" . $user_identity . "</a></h4>");
+	echo ("<h4>You're logged in as <a href = 'http://nevadacathouse.biz/profile'>" . $user_identity . "</a></h4>");
 }
 ?>
 	<div id="cancel-comment-reply">

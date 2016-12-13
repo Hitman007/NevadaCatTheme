@@ -489,12 +489,12 @@ $gender = $_POST['gender'];
 
    
 	}
-	header('Location:http://asiascatcreations.com/feline/'.$last);	
+	header('Location:http://nevadacathouse.biz/feline/'.$last);	
 	
 }	
 }
 	if ($_POST['form_submit_button'] == "Proceed to Payment"){
-		header('Location: http://asiascatcreations.com/payment/');
+		header('Location: http://nevadacathouse.bizm/payment/');
 	}
 	get_header();	
 	?>    
