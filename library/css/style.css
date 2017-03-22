@@ -1,18 +1,18 @@
 @font-face {
   font-family: "Cabin Sketch";
-  src: url('http://nevadacathouse.biz/wp-content/themes/asias_cat_creations/library/css/font/CabinSketch-Regular.otf') format('truetype');
+  src: url('http://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/css/font/CabinSketch-Regular.otf') format('truetype');
 } 
 
 @font-face {
   font-family: "Love Ya Like A Sister";
-  src: url('http://nevadacathouse.biz/wp-content/themes/asias_cat_creations/library/css/font/LoveYaLikeASister.ttf') format('truetype');
+  src: url('http://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/css/font/LoveYaLikeASister.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 } 
 
 @font-face {
   font-family: "Love Ya Like A Sister";
-  src: url('http://nevadacathouse.biz/wp-content/themes/asias_cat_creations/library/css/font/LoveYaLikeASisterSolid.ttf') format('truetype');
+  src: url('http://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/css/font/LoveYaLikeASisterSolid.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 } 
@@ -244,7 +244,7 @@ h4{font-family:"Love Ya Like A Sister";font-size: 100%;}
 p {font-size: 16px;
     line-height: 26px;
     text-indent: 20px;}
-#logo_image {clear:none;vertical-align:middle; height: 200px; width: 340px;float: left; background-size:contain; background-repeat: no-repeat; background-image:url('http://nevadacathouse.biz/wp-content/themes/asias_cat_creations/purple_cat.gif'); display:inline-block;}
+#logo_image {clear:none;vertical-align:middle; height: 200px; width: 340px;float: left; background-size:contain; background-repeat: no-repeat; background-image:url('http://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/purple_cat.gif'); display:inline-block;}
 .onecol{width:5.801104972%}
 .twocol{width:14.364640883%}
 .threecol{width:22.928176794%}
