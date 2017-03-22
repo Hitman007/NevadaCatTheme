@@ -4,8 +4,7 @@ Template Name: No sidebar
 */
 ?>
 
-<?php get_header(); ?>
-page no sidebar		
+<?php get_header(); ?>	
 			<div id="content">
 
 				<div id="inner-content" class="wrap clearfix">
