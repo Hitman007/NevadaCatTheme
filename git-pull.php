@@ -1,4 +1,4 @@
 <?php
 $output = shell_exec('git pull origin master');
-echo "<pre>$output</pre>";
+echo "Output: <pre>$output</pre>";
 ?>
