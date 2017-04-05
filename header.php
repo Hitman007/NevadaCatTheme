@@ -42,7 +42,7 @@
 	<div id="logo_image">
 	</div>
 	<div id="logo_words">
-			<div id = "site_name"><h1><a href="http://nevadacathouse.biz" rel="nofollow">Nevada Cat House</a></h1></div>
+			<div id = "site_name"><h1><a href="<?php site_url();?>" rel="nofollow"><?php $x = get_the_title(); echo $x;?></a></h1></div>
 <style>
 .crg_li{float:left;vertical-align:middle;padding:13px;border-radius: 10px;
 	border-color: #793d47;
@@ -86,9 +86,9 @@
 
 </style>
 				<ul class = "crg_ul">
-				<li class = "crg_li_tl"><a href = "http://nevadacathouse.biz">Products</a></li>
-				<li class = "crg_li_center"><a href = "/faq/">FAQ</a></li>
-				<li class = "crg_li_center"><a href = "/blog/">Blog</a></li>
+				<li class = "crg_li_tl"><a href = "<?php site_url();?>">Products</a></li>
+				<li class = "crg_li_center"><a href = "<?php site_url();?>faq/">FAQ</a></li>
+				<li class = "crg_li_center"><a href = "<?php site_url();?>blog/">Blog</a></li>
 				<li class = "crg_li_tr"><a href = "<?php site_url();?>all-cats/">Cats!!</a></li>
 				</ul>
 		
