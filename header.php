@@ -42,7 +42,7 @@
 	<div id="logo_image">
 	</div>
 	<div id="logo_words">
-			<div id = "site_name"><h1><a href="<?php site_url();?>" rel="nofollow"><?php $x = get_the_title(); echo $x;?></a></h1></div>
+			<div id = "site_name"><h1><a href="<?php site_url();?>" rel="nofollow">Nevada Cat House</a></h1></div>
 <style>
 .crg_li{float:left;vertical-align:middle;padding:13px;border-radius: 10px;
 	border-color: #793d47;
