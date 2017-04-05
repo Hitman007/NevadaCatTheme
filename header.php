@@ -89,7 +89,7 @@
 				<li class = "crg_li_tl"><a href = "http://nevadacathouse.biz">Products</a></li>
 				<li class = "crg_li_center"><a href = "/faq/">FAQ</a></li>
 				<li class = "crg_li_center"><a href = "/blog/">Blog</a></li>
-				<li class = "crg_li_tr"><a href = "<?php site_url();?>index.php/all-cats/">Cats</a></li>
+				<li class = "crg_li_tr"><a href = "<?php site_url();?>all-cats/">Cats!!</a></li>
 				</ul>
 		
 	</div>
