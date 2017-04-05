@@ -21,10 +21,10 @@ Template Name: Front page
 		<script>
 			jQuery( document ).ready(function() {
 				jQuery('#subscription_button_<?php echo $slug;?>').click(function(){
-					window.location.href = "nevadacathouse.biz/subscriptions/?subscription_type=<?php echo $slug;?>";
+					window.location.href = "/subscriptions/?subscription_type=<?php echo $slug;?>";
 				});
 			jQuery('#info_button_<?php echo $slug;?>').click(function(){
-					window.location.href = "nevadacathouse.biz/<?php echo $slug;?>";
+					window.location.href = "/<?php echo $slug;?>";
 				});
 
 			});
