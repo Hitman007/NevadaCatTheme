@@ -1,6 +1,6 @@
 <footer role="contentinfo">
 <div id="inner-footer" class="wrap clearfix">
-	<span style="float:left;">Copyright <a href = "http://nevadacathouse.biz/wp-admin/index.php">&copy;</a> Nevada Cat House. All rights reserved. <a href = "http://nevadacathouse.biz/contact/">Contact us.</a> This site is a <a href = "http://customrayguns.com">Custom Ray Gun.<img align = "MIDDLE" src = "http://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/images/ray_gun.png" /></a>.</span>
+	<span style="float:left;">Copyright <a href = "https://nevadacathouse.biz/wp-admin/index.php">&copy;</a> Nevada Cat House. All rights reserved. <a href = "https://nevadacathouse.biz/contact/">Contact us.</a> This site is a <a href = "https://customrayguns.com">Custom Ray Gun.<img align = "MIDDLE" src = "https://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/images/ray_gun.png" /></a>.</span>
 </div> <!-- end #inner-footer -->
 </footer> <!-- end footer -->
 
