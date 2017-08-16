@@ -522,7 +522,7 @@ echo "<input type = 'radio' name = 'gender' id = 'gender' value = 'boy' /> Boy";
 echo "<input type = 'radio' name = 'gender' id = 'gender' value = 'girl' /> Girl";
 echo "</div>";
 echo "<div id = 'add_cat_image'>";
-echo "<label for = 'cat_image' style='float:left; width:100%'>Upload Cat s Image: (Optional, we will put it on the box!)</label>";
+echo "<label for = 'cat_image' style='float:left; width:100%'></label>";
 echo "<div class='default_img'><img src = 'http://asiascatcreations.com/wp-content/uploads/2012/12/cat_default_img.jpg' >	</div>";
 echo "<input type='file' name='cat_image' id='cat_image' />";       
 echo "</div>";
@@ -645,7 +645,7 @@ echo "<input type = 'radio' name = 'gender' id = 'gender' value = 'boy'"?><?php 
 echo "<input type = 'radio' name = 'gender' id = 'gender' value = 'boy'"?><?php if($sex==2){ echo "checked='checked'";  } ?> <?php echo "/> Girl";
 echo "</div>";
 echo "<div id = 'add_cat_image'>";
-echo "<label for = 'cat_image' style='float:left; width:100%'>Upload Cat s Image: (Optional, we will put it on the box!)</label><div class='default_img'>";
+echo "<label for = 'cat_image' style='float:left; width:100%'></label><div class='default_img'>";
  if ( has_post_thumbnail()) { 
    echo the_post_thumbnail(); 
     } else { 

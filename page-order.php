@@ -88,7 +88,7 @@ wp_reset_query();
         <option value="FEMALE">Female</option>
         </select>
 <br/><br />
-<label for = "cat_image">Upload Cat's Image: (Optional, we'll put it on the box!)</label>
+<label for = "cat_image"></label>
 <input type="file" name="cat_image" id="cat_image" />
         <br /><br />
 		<?php
