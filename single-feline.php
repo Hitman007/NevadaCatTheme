@@ -13,7 +13,7 @@
         <section class="entry-content clearfix" itemprop="articleBody">
           <div class="page_img_right">
             <img src = "<?php global $post; $url = wp_get_attachment_url( get_post_thumbnail_id($post->ID) ); echo $url;?>" />
-          	<span id = 'add-pic-anchor'><a href = '/add-pic/'>Hello Kitty!</span>
+          	<span id = 'add-pic-anchor'><a href = '/add-pic/'><!--  THIS GOES UNDER THE PICTURE --></span>
           </div>
           <?php the_content(); ?>
         </section> 
