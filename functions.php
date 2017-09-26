@@ -8,6 +8,7 @@ URL: htp://customrayguns.com
 
 function my_login_stylesheet() {
 	$x = get_template_directory_uri();
+	
 	$x = $x . "/library/css/login.css";
 	echo ('<link rel="stylesheet" id="custom_wp_admin_css"  href="' .$x . '" type="text/css" media="all" />');
 }
