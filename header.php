@@ -88,8 +88,11 @@
 				<ul class = "crg_ul">
 				<li class = "crg_li_tl"><a href = "/">Products</a></li>
 				<li class = "crg_li_center"><a href = "<?php site_url();?>faq/">FAQ</a></li>
+				<!--
 				<li class = "crg_li_center"><a href = "<?php site_url();?>blog/">Blog</a></li>
 				<li class = "crg_li_tr"><a href = "<?php site_url();?>all-cats/">Cats</a></li>
+				-->
+				<li class = "crg_li_tr"><a href = "<?php site_url();?>blog/">Blog</a></li>
 				</ul>
 		
 	</div>
