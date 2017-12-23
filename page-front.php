@@ -9,7 +9,7 @@ Template Name: Front page
 <div id="main" class="ninecol first clearfix form_section" role="main">
 <h1>Human Grade All Natural Cat Food</h1>
 <p>Nevada Cat House products are created using only ingredients sold for human consumption. No "meat bi products" here, whatever that is. Healthy, all natural food for your cat!</p>
-	<?php query_posts('category_name=products&post_status=publish,future');?>
+	<?php query_posts('category_name=monthly-subscriptions&post_status=publish,future');?>
 	<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 	<?php $postid = get_the_ID(); $url = wp_get_attachment_url( get_post_thumbnail_id($postid) );?>
 		<div class = "front_page_image" id = "front_page_image_<?php echo $postid; ?>">
