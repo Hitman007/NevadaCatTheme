@@ -58,8 +58,8 @@ Template Name: Default
 
 
 <script>
-$(document).ready(function(){
-	$('#u_0_3').hide();
+jQuery(document).ready(function(){
+	jQuery('#u_0_3').hide();
 });
 </script>		
 <?php get_footer(); ?>
