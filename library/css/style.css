@@ -1,18 +1,18 @@
 @font-face {
   font-family: "Cabin Sketch";
-  src: url('https://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/css/font/CabinSketch-Regular.otf') format('truetype');
+  src: url('/wp-content/themes/NevadaCatTheme/library/css/font/CabinSketch-Regular.otf') format('truetype');
 } 
 
 @font-face {
   font-family: "Love Ya Like A Sister";
-  src: url('https://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/css/font/LoveYaLikeASister.ttf') format('truetype');
+  src: url('/wp-content/themes/NevadaCatTheme/library/css/font/LoveYaLikeASister.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 } 
 
 @font-face {
   font-family: "Love Ya Like A Sister";
-  src: url('https://nevadacathouse.biz/wp-content/themes/NevadaCatTheme/library/css/font/LoveYaLikeASisterSolid.ttf') format('truetype');
+  src: url('/wp-content/themes/NevadaCatTheme/library/css/font/LoveYaLikeASisterSolid.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 } 
