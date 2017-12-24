@@ -21,11 +21,5 @@ Template Name: No comments, no sidebar
     
 			</div> <!-- end #content -->
 	
-
-
-<script>
-$(document).ready(function(){
-	$('#u_0_3').hide();
-});
-</script>		
+		
 <?php get_footer(); ?>

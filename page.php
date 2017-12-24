@@ -55,11 +55,4 @@ Template Name: Default
     
 			</div> <!-- end #content -->
 	
-
-
-<script>
-jQuery(document).ready(function(){
-	jQuery('#u_0_3').hide();
-});
-</script>		
 <?php get_footer(); ?>
