@@ -4,6 +4,7 @@
 <div id="inner-content" class="wrap clearfix">
 <div id="main" class="ninecol first" role="main">
 <div class = "form_section">
+THIS IS THE SINGLE POST TEMPLATE!!!!!!!!!!!!!!!!!
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 <header class="article-header">
 <h1 class="entry-title single-title" itemprop="headline"><?php the_title(); ?></h1>

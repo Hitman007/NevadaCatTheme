@@ -6,7 +6,7 @@ Template Name: Default
 
 <?php get_header(); ?>			
 			<div id="content">
-
+<!-- THIS IS THE SINGLE PAGE TEMPLATE -->
 				<div id="inner-content" class="wrap clearfix">
 			
 				    <div id="main" class="ninecol first clearfix" role="main">

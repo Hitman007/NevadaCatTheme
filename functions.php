@@ -168,7 +168,7 @@ function bones_comments($comment, $args, $depth) {
 
 				$comment_autor_nickname = get_user_meta($comment_author_id, "Nickname", TRUE);
 
-				$user_info = get_userdata($comment_author_id);
+				//$user_info = get_userdata($comment_author_id);
 
 				//$user_display_name = $user_info->display_name;
 
@@ -176,7 +176,7 @@ function bones_comments($comment, $args, $depth) {
 
 
 
-				echo "<h4 style = 'float:left;'>$user_display_name</h4>";
+				//echo "<h4 style = 'float:left;'>$user_display_name</h4>";
 
 				?>
 
