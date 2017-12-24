@@ -22,7 +22,7 @@ include ('products_list.php');
 get_header();
 ?>
 <div id="content">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+
 <div id="inner-content" class="wrap clearfix">
 <div id="main" role="main">
 <!-- ORDER FORM -->

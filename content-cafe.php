@@ -13,14 +13,13 @@ $phone = @$custom["phone"][0];
 <style>
 	.modal {width:900px;margin-left:-440px;}
 </style>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/packages/bootstrap/js/bootstrap.min.js"></script>
  
 <!-- Modal -->
 <form method='post' action="" enctype="multipart/form-data">
 	<div id="editModal">
 		<div>
-			<button type="button" data-dismiss="modal">×</button>
+			<button type="button" data-dismiss="modal">ï¿½</button>
 			<h3>Edit Cafe</h3>
 		</div>
 		<div>

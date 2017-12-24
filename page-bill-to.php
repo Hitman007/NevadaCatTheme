@@ -5,7 +5,7 @@ Template Name: Bill to
 get_header();
 session_start();
 ?>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+
 <div id="content">
 <div id="inner-content" class="wrap clearfix">
 <div id="main" role="main">
